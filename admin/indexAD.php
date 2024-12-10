@@ -3,7 +3,7 @@ session_start();
 ob_start();
 
 // Kiểm tra quyền truy cập
-if (!isset($_SESSION['user']) || !isset($_SESSION['role'])==1) {
+// if (!isset($_SESSION['user']) || !isset($_SESSION['role'])==1) {
     include "model/connectdb.php";
     include "model/loaisanpham.php";
     include "model/sanpham.php";
@@ -259,7 +259,7 @@ case 'updatesp':
     }
   
     include "viewAD/footerAD.php"; 
-} else {
-    header('location:login.php'); 
-}
+// } else {
+//     header('location:login.php'); 
+// }
 ?>

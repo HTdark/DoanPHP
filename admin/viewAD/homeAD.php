@@ -1,5 +1,5 @@
 <?php
-include './model/homeAD.php';
+include_once './model/homeAD.php';
 
 $product_count = count_products();
 $customer_count = count_customers();
