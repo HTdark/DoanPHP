@@ -16,7 +16,7 @@
     include 'user/function/loaisanpham.php';
     include 'user/function/sanpham.php';
     include './user/indexUS.php';
-    ?>
+    ?>hello
     <!-- Header -->
 </body>
 
