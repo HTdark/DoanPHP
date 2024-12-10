@@ -18,6 +18,7 @@
     include './user/indexUS.php';
     ?>
     <!-- Header -->
+     hello truong`
 </body>
 
 </html>
