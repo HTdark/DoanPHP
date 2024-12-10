@@ -4,7 +4,7 @@ const leftButton = document.querySelector('.carousel-button-left');
 const rightButton = document.querySelector('.carousel-button-right');
 
 const slideWidth = slides[0].getBoundingClientRect().width;
-const visibleSlides = 4; // Số lượng sản phẩm hiển thị cùng lúc
+const visibleSlides = 5; // Số lượng sản phẩm hiển thị cùng lúc
 let currentIndex = 0;
 
 // Cập nhật carousel
