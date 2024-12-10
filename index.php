@@ -55,45 +55,42 @@
         <div class="carousel-track-container">
         <ul class="carousel-track">
     <li class="SPitem">
-        <img src="HinhAnh/hinh ao/hinh1.jpg" alt="Product 1">
+        
+        <img src="hinhSP/yte/khautrang.jpg" alt="Product 1">
         <h2>Áo Thun</h2>
         <p>100.000đ</p>
     </li>
     <li class="SPitem">
-        <img src="HinhAnh/hinh ao/hinh2.jpg" alt="Product 2">
+        <img src="hinhSP/hỗ trợ/Dạ dày Hedavit.jpg" alt="Product 2">
         <h2>Quần Jeans</h2>
         <p>200.000đ</p>
     </li>
     <li class="SPitem">
-        <img src="HinhAnh/hinh ao/hinh3.jpg" alt="Product 3">
+        <img src="hinhSP/dầu/dàu thảo dược.jpg" alt="Product 3">
         <h2>Áo Khoác</h2>
         <p>300.000đ</p>
     </li>
     <li class="SPitem">
-        <img src="HinhAnh/hinh ao/hinh4.jpg" alt="Product 4">
+        <img src="hinhSP/kẹo/keo_tac_vang.jpg" alt="Product 4">
         <h2>Giày Sneaker</h2>
         <p>500.000đ</p>
     </li>
     <li class="SPitem">
-        <img src="HinhAnh/hinh ao/hinh5.jpg" alt="Product 5">
+        <img src="hinhSP/sủi/opticool_chanh.jpg" alt="Product 5">
         <h2>Áo Thể Thao</h2>
         <p>250.000đ</p>
     </li>
     <li class="SPitem">
-        <img src="HinhAnh/hinh quần/hinhquan (5).jpg" alt="Product 5">
+        <img src="hinhSP/hỗ trợ/men vi sinh.jpg" alt="Product 5">
         <h2>Áo Thể Thao</h2>
         <p>250.000đ</p>
     </li>
     <li class="SPitem">
-        <img src="HinhAnh/hinh túi/hinhtui (6).jpg" alt="Product 5">
+        <img src="hinhSP/siro/siro Antitux.jpg" alt="Product 5">
         <h2>Áo Thể Thao</h2>
         <p>250.000đ</p>
     </li>
-    <li class="SPitem">
-        <img src="HinhAnh/hinhvo/hinhvo (2).jpg" alt="Product 5">
-        <h2>Áo Thể Thao</h2>
-        <p>250.000đ</p>
-    </li>
+  
 </ul>
 
         </div>
