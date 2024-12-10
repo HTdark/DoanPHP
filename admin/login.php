@@ -4,6 +4,12 @@ ob_start();
 include "model/connectdb.php";
 include "model/user.php";
 // sdafasdfdasfsadfsss
+// sdafasdfdasfsadfsss
+
+// sdafasdfdasfsadfsss
+
+// sdafasdfdasfsadfsss
+
 if ((isset($_POST['dangnhap'])) && ($_POST['dangnhap'])) {
     $user = trim($_POST['user']); 
     $pass = trim($_POST['pass']);
