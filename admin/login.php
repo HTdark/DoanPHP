@@ -3,6 +3,12 @@ session_start();
 ob_start();
 include "model/connectdb.php";
 include "model/user.php";
+// sdafasdfdasfsadfsss
+// sdafasdfdasfsadfssskmjkjukasdasdasdasdasd
+
+// sdafasdfdasfsadfsss
+
+// sdafasdfdasfsadfsss
 
 if ((isset($_POST['dangnhap'])) && ($_POST['dangnhap'])) {
     $user = trim($_POST['user']); 
