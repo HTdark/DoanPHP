@@ -10,6 +10,123 @@ body {
 }
 
 /* Header Styling */
+.Header-user{
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #FDF7F4;
+}
+.Header-logo{
+  flex-basis: 5%;
+  display: flex;
+  align-items: center;
+}
+.Header-logo img{
+  width: 50px;
+  height: 50px;
+}
+.Header-navbar{
+  flex-basis: 75%;
+}
+.Header-navbar ul{
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
+}
+.Header-action{
+  flex-basis: 20%;
+  display: flex;
+  gap: 30px;
+  justify-content: flex-end;
+  align-items: center;
+}
+.Action-search{
+  display: flex;
+  align-items: center;
+}
+.Action-search input{
+  border-radius: 30px;
+  border: none;
+  width: 120px;
+  padding-left: 40px;
+  background-color: #F1F0E8;
+  height: 30px;
+  outline: none;
+  font-weight: 700;
+  font-size: 15px;
+}
+.Action-search input:focus{
+  background-color: #E5E1DA ;
+}
+.Action-search input:hover{
+  background-color: #E5E1DA ;
+}
+.Action-search img{
+  position: relative;
+  right: 161px;
+  border-radius: 50%;
+  background-color: #F1F0E8;
+  padding: 5px;
+  width: 20px;
+  height: 20px;
+}
+.Banner{
+  padding: 30px;
+}
+.Banner img{
+  width: 100%;
+  height: 600px;  
+}
+.Category{
+  margin-top: 30px;
+  text-align: center;
+  background-color: #E5E1DA;
+  padding: 30px 50px;
+}
+.title{
+  font-size: 24px;
+  font-weight: 600;
+}
+.list-category{
+  display: flex;
+  padding-left: 50px;
+  padding-right: 50px;
+  justify-content: center;
+  gap: 50px;
+}
+.item-list-category img{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.Product{
+  margin-top: 50px;
+  padding: 0 50px;
+}
+.product-category-title{
+  font-size: 24px;
+  font-weight: 600;
+}
+.list-product-card{
+  display: flex;
+  flex-direction: row;
+  gap: 65px;
+  margin-bottom: 50px;
+}
+.box-product-category-title{
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
 .container {
   background-color: #ffffff;
   border-bottom: 1px solid #ddd;
